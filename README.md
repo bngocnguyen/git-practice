@@ -7,3 +7,5 @@ This tutorial focuses mainly on Git and using GitHub as it remote
 This repository is built step by step in the tutorial.
 
 Update the code directly on GitHub.
+
+Practice push
